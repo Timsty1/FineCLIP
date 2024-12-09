@@ -1,0 +1,10 @@
+torch==2.1.2
+torchvision==0.16.2
+regex
+ftfy
+tqdm
+timm
+einops
+pycocotools
+xformers==0.0.23.post1
+panopticapi@git+https://githubfast.com/cocodataset/panopticapi.git
