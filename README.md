@@ -97,7 +97,7 @@ We provide FineCLIP checkpoints trained on COCO :)
 
 ## Downstream Evaluations
 
-If you want to evaluation FineCLIP on downstream tasks like open-vocabulary object detection and segmention, please refer to [CLIPSelf](https://github.com/wusize/CLIPSelf/tree/main) and [CAT-Seg](https://github.com/cvlab-kaist/CAT-Seg).
+If you want to evaluate FineCLIP on downstream tasks like open-vocabulary object detection and segmention, please refer to [CLIPSelf](https://github.com/wusize/CLIPSelf/tree/main) and [CAT-Seg](https://github.com/cvlab-kaist/CAT-Seg).
 We thank their valuable code bases.
 
 ## Citation
