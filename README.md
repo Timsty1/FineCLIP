@@ -75,7 +75,7 @@ bash scripts/train_vitl14.sh
 
 ## Evaluation
 
-We provide the scripts to train CLIPSelf and RegionCLIP under [scripts/](scripts), they are summarized as follows:
+We provide the scripts to evaluate FineCLIP under [scripts/](scripts), they are summarized as follows:
 
 |  #  | Model Type |          Task           |   Benchmark   |                  script                  |
 |:---:|:----------:|:-----------------------:|:-------------:|:----------------------------------------:|
