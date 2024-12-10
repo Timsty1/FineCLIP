@@ -24,10 +24,8 @@ pip install -r requirements.txt
 ## Data Preparation
 
 The main ablation experiments are conducted using images from [COCO](https://cocodataset.org/#home) 
-and [Flickr](https://shannon.cs.illinois.edu/DenotationGraph/) datasets. Please prepare datasets and organize them like the 
-following:
+and [Flickr](https://shannon.cs.illinois.edu/DenotationGraph/) datasets. Please donwload and organize datasets like the following:
 
-Please donwload and organize datasets like the following:
 ```text
 CLIPSelf/
 ├── data
