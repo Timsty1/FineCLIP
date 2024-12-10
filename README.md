@@ -7,7 +7,7 @@ Official Release of FineCLIP: Self-distilled Region-based CLIP for Better Fine-g
 > [**FineCLIP: Self-distilled Region-based CLIP for Better Fine-grained Understanding**](https://openreview.net/pdf?id=nExI4FuKWD),            
 > Dong Jing*, Xiaolong He*, Yutian Luo, Nanyi Fei, Guoxing Yang, Wei Wei, Huiwen Zhao, Zhiwu Lu†
 
-![](figs/fineclip_arch.pdf)
+![](figs/fineclip_arch.png)
 
 ## TODO
 - [x] Code for training and evaluating FineCLIP on COCO dataset
