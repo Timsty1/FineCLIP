@@ -27,7 +27,7 @@ The main ablation experiments are conducted using images from [COCO](https://coc
 and [Flickr](https://shannon.cs.illinois.edu/DenotationGraph/) datasets. Please donwload and organize datasets like the following:
 
 ```text
-CLIPSelf/
+FineCLIP/
 ├── data
     ├── coco
         ├── annotations
