@@ -46,12 +46,12 @@ FineCLIP/
 ```
 
 ##  Original Models 
-To run CLIPSelf, first obtain the original models from 
+To run FineCLIP, first obtain the original models from 
 [EVA-02-CLIP](https://github.com/baaivision/EVA/tree/master/EVA-CLIP), and put them under 
 `checkpoints/` like the following:
 
 ```text
-CLIPSelf/
+FineCLIP/
 ├── checkpoints
     ├── EVA02_CLIP_B_psz16_s8B.pt
     ├── EVA02_CLIP_L_336_psz14_s6B.pt
