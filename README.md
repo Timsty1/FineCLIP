@@ -32,13 +32,13 @@ FineCLIP/
     ├── coco
         ├── annotations
             ├── captions_train2017.json [Image Captions](https://drive.google.com/file/d/1gV7MZxQCkRbmC__FcVr0rGuNIdpacnwJ/view?usp=drive_link)
-            ├── instances_train2017.json 
+            ├── instances_train2017.json [Image Instances](https://drive.google.com/file/d/1NkpM3cVhw_E59LiURaZ1oCeUDEnb2iul/view?usp=sharing)
             ├── panoptic_val2017.json
             ├── panoptic_val2017 
         ├── train2017
         ├── val2017
         ├── coco_captions.json  [Region Captions](https://drive.google.com/file/d/1hmXjZ1i8LMTkKg6JPnU5qfT1pIMulFqA/view?usp=drive_link)
-        ├── coco_proposals.json
+        ├── coco_proposals.json [Proposal Data](https://drive.google.com/file/d/1ocooLkOZncjNwlEvNcLHjCPycnOkpMv1/view?usp=sharing)
         ├── coco_test.json      [Test Data](https://drive.google.com/file/d/1Qdqe8fINH79A53nb7D81KYski7iLsWyV/view?usp=drive_link)
     ├── flickr30k
         ├── flickr30k_images
