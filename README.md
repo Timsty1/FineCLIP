@@ -103,10 +103,12 @@ We thank their valuable code bases.
 ## Citation
 
 ```bibtex
-@article{fineclip,
-  title={FineCLIP: Self-distilled Region-based CLIP for Better Fine-grained Understanding},
-  author={Dong Jing, Xiaolong He, Yutian Luo, Nanyi Fei, Guoxing Yang, Wei Wei, Huiwen Zhao, Zhiwu Lu},
+@article{jing2024fineclip,
+  title={Fineclip: Self-distilled region-based clip for better fine-grained understanding},
+  author={Jing, Dong and He, Xiaolong and Luo, Yutian and Fei, Nanyi and Wei, Wei and Zhao, Huiwen and Lu, Zhiwu and others},
   journal={Advances in Neural Information Processing Systems},
+  volume={37},
+  pages={27896--27918},
   year={2024}
 }
 ```
